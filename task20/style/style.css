@@ -1,0 +1,60 @@
+body {
+    background-image: url('/images/neom-NPDnHmYsl6Y-unsplash.jpg');
+    background-size: cover;
+}
+
+.heading {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Pixelify Sans', sans-serif;
+font-family: 'Young Serif', serif;
+}
+
+form {
+    
+    width: 261px;
+    margin: auto;
+    text-align: center; 
+    /* box-shadow: 0 26px 42px rgba(0, 0, 0, 0.1); */
+    /* opacity: 20; */
+    border: 2px solid;
+    padding: 46px;
+    background-color:  rgba(190,224,255,0.1); 
+    
+   
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+.btn {
+    padding: 3px;
+    width: 274px;
+    margin: auto;
+    margin-top: 18px;
+}
+
+.a {
+    padding: 5px;
+    width: 247px;
+    margin-top: 29px;
+    padding-right: 13px;
+}
+
+.b  {
+    margin-top: 20px;
+
+}
+
+button {
+    background-color: transparent;
+  }
+
+
+
+    
